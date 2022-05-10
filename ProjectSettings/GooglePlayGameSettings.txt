@@ -1,0 +1,10 @@
+lastUpgrade=00926
+proj.AppId=233000933472
+proj.ConstantsClassName=TerraPlay.GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e233000933472%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.ViralGames.TerraSweeper%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_just_in_time%22%3eCgkI4LDA_-MGEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_bad_luck%22%3eCgkI4LDA_-MGEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_welcome_to_terrasweeper%22%3eCgkI4LDA_-MGEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_sharing_is_caring%22%3eCgkI4LDA_-MGEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_challenge_seeker%22%3eCgkI4LDA_-MGEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_working_memory%22%3eCgkI4LDA_-MGEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_streak_climb_i%22%3eCgkI4LDA_-MGEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_streak_climb_ii%22%3eCgkI4LDA_-MGEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_streak_climb_iii%22%3eCgkI4LDA_-MGEAIQDA%3c%2fstring%3e%0d%0a%3cstring+name%3d%22leaderboard_terrasweeper_leaderboard%22%3eCgkI4LDA_-MGEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a%0a%0a%0a
+and.ClientId=233000933472-7i6vqksq1fhd3poekggq3lug4q8s7mmf.apps.googleusercontent.com
+android.SetupDone=true
+proj.pluginVersion=0.9.36
+and.BundleId=com.ViralGames.TerraSweeper
+proj.classDir=Assets
+proj.requireGPlus=false
