@@ -1,6 +1,6 @@
 # Terrasweeper
 
-Use your powers of deduction to uncover tiles surrounded by landmines that lay hidden within the land. Your objective, as a professional minesweeper, is to complete each grid by figuring out what tiles to avoid with the use of any clues you can find, which could be the numbers displayed above each uncovered tiles or even the amount of flags remaining. Are you ready to uncover the secrets that lay hidden within the terrain? Grab a shovel and tackle the challenges that hide within the land!
+Use your powers of deduction to uncover tiles surrounded by landmines that lay hidden within the land. Complete each grid by figuring out what tiles to avoid with the use of any clues you can find, which could be the numbers displayed above each uncovered tiles or even the amount of flags remaining. Are you ready to uncover the secrets that lay hidden within the terrain? Grab a shovel and tackle the challenges that hide within the land!
 
 Version 1.0
 
