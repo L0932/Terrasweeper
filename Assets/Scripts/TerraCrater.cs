@@ -58,8 +58,8 @@ public class TerraCrater : MonoBehaviour {
 		GameObject terrain = Terrain.CreateTerrainGameObject(terrDataInstance);
 
 		//terrData = Terrain.activeTerrain.terrainData;
-		xRes = terrDataInstance.heightmapWidth;
-		yRes = terrDataInstance.heightmapHeight;
+		xRes = terrDataInstance.heightmapResolution;
+		yRes = terrDataInstance.heightmapResolution;
 		
 		saved = terrDataInstance.GetHeights (0,0,xRes, yRes);
 		//Terrain.activeTerrain.heightmapMaximumLOD = 0;

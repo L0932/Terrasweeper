@@ -1,113 +1,290 @@
 fileFormatVersion: 2
 guid: 4b5438bc94d3d4e549eb41dd286c1fd1
-timeCreated: 1427747595
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: droid-blue-strip_0
-    21300002: droid-blue-strip_1
-    21300004: droid-blue-strip_2
-    21300006: droid-blue-strip_3
-    21300008: droid-blue-strip_4
-    21300010: droid-blue-strip_5
-    21300012: droid-blue-strip_6
-    21300014: droid-blue-strip_7
-    21300016: droid-blue-strip_8
-    21300018: droid-blue-strip_9
-    21300020: droid-blue-strip_10
-    21300022: droid-blue-strip_11
-    21300024: droid-blue-strip_12
-    21300026: droid-blue-strip_13
-    21300028: droid-blue-strip_14
-    21300030: droid-blue-strip_15
-    21300032: droid-blue-strip_16
-    21300034: droid-blue-strip_17
-    21300036: droid-blue-strip_18
-    21300038: droid-blue-strip_19
-    21300040: droid-blue-strip_20
-    21300042: droid-blue-strip_21
-    21300044: droid-blue-strip_22
-    21300046: droid-blue-strip_23
-    21300048: droid-blue-strip_24
-    21300050: droid-blue-strip_25
-    21300052: droid-blue-strip_26
-    21300054: droid-blue-strip_27
-    21300056: droid-blue-strip_28
-    21300058: droid-blue-strip_29
-    21300060: droid-blue-strip_30
-    21300062: droid-blue-strip_31
-    21300064: droid-blue-strip_32
-    21300066: droid-blue-strip_33
-    21300068: droid-blue-strip_34
-    21300070: droid-blue-strip_35
-    21300072: droid-blue-strip_36
-    21300074: droid-blue-strip_37
-    21300076: droid-blue-strip_38
-    21300078: droid-blue-strip_39
-    21300080: droid-blue-strip_40
-    21300082: droid-blue-strip_41
-    21300084: droid-blue-strip_42
-    21300086: droid-blue-strip_43
-    21300088: droid-blue-strip_44
-    21300090: droid-blue-strip_45
-    21300092: droid-blue-strip_46
-    21300094: droid-blue-strip_47
-    21300096: droid-blue-strip_48
-    21300098: droid-blue-strip_49
-    21300100: droid-blue-strip_50
-    21300102: droid-blue-strip_51
-    21300104: droid-blue-strip_52
-    21300106: droid-blue-strip_53
-    21300108: droid-blue-strip_54
-    21300110: droid-blue-strip_55
-    21300112: droid-blue-strip_56
-    21300114: droid-blue-strip_57
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: droid-blue-strip_0
+  - first:
+      213: 21300002
+    second: droid-blue-strip_1
+  - first:
+      213: 21300004
+    second: droid-blue-strip_2
+  - first:
+      213: 21300006
+    second: droid-blue-strip_3
+  - first:
+      213: 21300008
+    second: droid-blue-strip_4
+  - first:
+      213: 21300010
+    second: droid-blue-strip_5
+  - first:
+      213: 21300012
+    second: droid-blue-strip_6
+  - first:
+      213: 21300014
+    second: droid-blue-strip_7
+  - first:
+      213: 21300016
+    second: droid-blue-strip_8
+  - first:
+      213: 21300018
+    second: droid-blue-strip_9
+  - first:
+      213: 21300020
+    second: droid-blue-strip_10
+  - first:
+      213: 21300022
+    second: droid-blue-strip_11
+  - first:
+      213: 21300024
+    second: droid-blue-strip_12
+  - first:
+      213: 21300026
+    second: droid-blue-strip_13
+  - first:
+      213: 21300028
+    second: droid-blue-strip_14
+  - first:
+      213: 21300030
+    second: droid-blue-strip_15
+  - first:
+      213: 21300032
+    second: droid-blue-strip_16
+  - first:
+      213: 21300034
+    second: droid-blue-strip_17
+  - first:
+      213: 21300036
+    second: droid-blue-strip_18
+  - first:
+      213: 21300038
+    second: droid-blue-strip_19
+  - first:
+      213: 21300040
+    second: droid-blue-strip_20
+  - first:
+      213: 21300042
+    second: droid-blue-strip_21
+  - first:
+      213: 21300044
+    second: droid-blue-strip_22
+  - first:
+      213: 21300046
+    second: droid-blue-strip_23
+  - first:
+      213: 21300048
+    second: droid-blue-strip_24
+  - first:
+      213: 21300050
+    second: droid-blue-strip_25
+  - first:
+      213: 21300052
+    second: droid-blue-strip_26
+  - first:
+      213: 21300054
+    second: droid-blue-strip_27
+  - first:
+      213: 21300056
+    second: droid-blue-strip_28
+  - first:
+      213: 21300058
+    second: droid-blue-strip_29
+  - first:
+      213: 21300060
+    second: droid-blue-strip_30
+  - first:
+      213: 21300062
+    second: droid-blue-strip_31
+  - first:
+      213: 21300064
+    second: droid-blue-strip_32
+  - first:
+      213: 21300066
+    second: droid-blue-strip_33
+  - first:
+      213: 21300068
+    second: droid-blue-strip_34
+  - first:
+      213: 21300070
+    second: droid-blue-strip_35
+  - first:
+      213: 21300072
+    second: droid-blue-strip_36
+  - first:
+      213: 21300074
+    second: droid-blue-strip_37
+  - first:
+      213: 21300076
+    second: droid-blue-strip_38
+  - first:
+      213: 21300078
+    second: droid-blue-strip_39
+  - first:
+      213: 21300080
+    second: droid-blue-strip_40
+  - first:
+      213: 21300082
+    second: droid-blue-strip_41
+  - first:
+      213: 21300084
+    second: droid-blue-strip_42
+  - first:
+      213: 21300086
+    second: droid-blue-strip_43
+  - first:
+      213: 21300088
+    second: droid-blue-strip_44
+  - first:
+      213: 21300090
+    second: droid-blue-strip_45
+  - first:
+      213: 21300092
+    second: droid-blue-strip_46
+  - first:
+      213: 21300094
+    second: droid-blue-strip_47
+  - first:
+      213: 21300096
+    second: droid-blue-strip_48
+  - first:
+      213: 21300098
+    second: droid-blue-strip_49
+  - first:
+      213: 21300100
+    second: droid-blue-strip_50
+  - first:
+      213: 21300102
+    second: droid-blue-strip_51
+  - first:
+      213: 21300104
+    second: droid-blue-strip_52
+  - first:
+      213: 21300106
+    second: droid-blue-strip_53
+  - first:
+      213: 21300108
+    second: droid-blue-strip_54
+  - first:
+      213: 21300110
+    second: droid-blue-strip_55
+  - first:
+      213: 21300112
+    second: droid-blue-strip_56
+  - first:
+      213: 21300114
+    second: droid-blue-strip_57
+  externalObjects: {}
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: droid-blue-strip_0
+    - serializedVersion: 2
+      name: droid-blue-strip_0
       rect:
         serializedVersion: 2
         x: 231
@@ -117,7 +294,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_1
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_1
       rect:
         serializedVersion: 2
         x: 813
@@ -127,7 +316,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_2
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_2
       rect:
         serializedVersion: 2
         x: 2871
@@ -137,7 +338,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_3
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_3
       rect:
         serializedVersion: 2
         x: 3602
@@ -147,7 +360,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_4
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_4
       rect:
         serializedVersion: 2
         x: 4610
@@ -157,7 +382,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_5
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_5
       rect:
         serializedVersion: 2
         x: 4894
@@ -167,7 +404,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_6
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_6
       rect:
         serializedVersion: 2
         x: 6952
@@ -177,7 +426,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_7
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_7
       rect:
         serializedVersion: 2
         x: 8748
@@ -187,7 +448,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_8
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_8
       rect:
         serializedVersion: 2
         x: 9479
@@ -197,7 +470,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_9
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_9
       rect:
         serializedVersion: 2
         x: 9749
@@ -207,7 +492,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_10
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_10
       rect:
         serializedVersion: 2
         x: 10004
@@ -217,7 +514,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_11
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_11
       rect:
         serializedVersion: 2
         x: 10238
@@ -227,7 +536,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_12
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_12
       rect:
         serializedVersion: 2
         x: 10764
@@ -237,7 +558,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_13
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_13
       rect:
         serializedVersion: 2
         x: 12850
@@ -247,7 +580,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_14
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_14
       rect:
         serializedVersion: 2
         x: 13099
@@ -257,7 +602,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_15
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_15
       rect:
         serializedVersion: 2
         x: 18
@@ -267,7 +624,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_16
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_16
       rect:
         serializedVersion: 2
         x: 302
@@ -277,7 +646,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_17
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_17
       rect:
         serializedVersion: 2
         x: 564
@@ -287,7 +668,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_18
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_18
       rect:
         serializedVersion: 2
         x: 1061
@@ -297,7 +690,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_19
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_19
       rect:
         serializedVersion: 2
         x: 1324
@@ -307,7 +712,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_20
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_20
       rect:
         serializedVersion: 2
         x: 1579
@@ -317,7 +734,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_21
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_21
       rect:
         serializedVersion: 2
         x: 1835
@@ -327,7 +756,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_22
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_22
       rect:
         serializedVersion: 2
         x: 2090
@@ -337,7 +778,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_23
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_23
       rect:
         serializedVersion: 2
         x: 2346
@@ -347,7 +800,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_24
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_24
       rect:
         serializedVersion: 2
         x: 2608
@@ -357,7 +822,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_25
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_25
       rect:
         serializedVersion: 2
         x: 3127
@@ -367,7 +844,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_26
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_26
       rect:
         serializedVersion: 2
         x: 3332
@@ -377,7 +866,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_27
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_27
       rect:
         serializedVersion: 2
         x: 3858
@@ -387,7 +888,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_28
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_28
       rect:
         serializedVersion: 2
         x: 4106
@@ -397,7 +910,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_29
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_29
       rect:
         serializedVersion: 2
         x: 4354
@@ -407,7 +932,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_30
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_30
       rect:
         serializedVersion: 2
         x: 5171
@@ -417,7 +954,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_31
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_31
       rect:
         serializedVersion: 2
         x: 5398
@@ -427,7 +976,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_32
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_32
       rect:
         serializedVersion: 2
         x: 5639
@@ -437,7 +998,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_33
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_33
       rect:
         serializedVersion: 2
         x: 5930
@@ -447,7 +1020,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_34
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_34
       rect:
         serializedVersion: 2
         x: 6193
@@ -457,7 +1042,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_35
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_35
       rect:
         serializedVersion: 2
         x: 6448
@@ -467,7 +1064,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_36
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_36
       rect:
         serializedVersion: 2
         x: 6704
@@ -477,7 +1086,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_37
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_37
       rect:
         serializedVersion: 2
         x: 7208
@@ -487,7 +1108,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_38
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_38
       rect:
         serializedVersion: 2
         x: 7463
@@ -497,7 +1130,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_39
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_39
       rect:
         serializedVersion: 2
         x: 7726
@@ -507,7 +1152,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_40
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_40
       rect:
         serializedVersion: 2
         x: 7981
@@ -517,7 +1174,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_41
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_41
       rect:
         serializedVersion: 2
         x: 8237
@@ -527,7 +1196,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_42
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_42
       rect:
         serializedVersion: 2
         x: 8492
@@ -537,7 +1218,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_43
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_43
       rect:
         serializedVersion: 2
         x: 9010
@@ -547,7 +1240,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_44
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_44
       rect:
         serializedVersion: 2
         x: 9273
@@ -557,7 +1262,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_45
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_45
       rect:
         serializedVersion: 2
         x: 10501
@@ -567,7 +1284,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_46
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_46
       rect:
         serializedVersion: 2
         x: 11055
@@ -577,7 +1306,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_47
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_47
       rect:
         serializedVersion: 2
         x: 11296
@@ -587,7 +1328,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_48
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_48
       rect:
         serializedVersion: 2
         x: 11530
@@ -597,7 +1350,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_49
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_49
       rect:
         serializedVersion: 2
         x: 11786
@@ -607,7 +1372,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_50
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_50
       rect:
         serializedVersion: 2
         x: 12077
@@ -617,7 +1394,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_51
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_51
       rect:
         serializedVersion: 2
         x: 12339
@@ -627,7 +1416,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_52
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_52
       rect:
         serializedVersion: 2
         x: 12595
@@ -637,7 +1438,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_53
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_53
       rect:
         serializedVersion: 2
         x: 13354
@@ -647,7 +1460,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_54
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_54
       rect:
         serializedVersion: 2
         x: 13610
@@ -657,7 +1482,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_55
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_55
       rect:
         serializedVersion: 2
         x: 13865
@@ -667,7 +1504,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_56
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_56
       rect:
         serializedVersion: 2
         x: 14121
@@ -677,7 +1526,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: droid-blue-strip_57
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-blue-strip_57
       rect:
         serializedVersion: 2
         x: 14383
@@ -687,7 +1548,91 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-  spritePackingTag: 
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      droid-blue-strip_0: 21300000
+      droid-blue-strip_1: 21300002
+      droid-blue-strip_10: 21300020
+      droid-blue-strip_11: 21300022
+      droid-blue-strip_12: 21300024
+      droid-blue-strip_13: 21300026
+      droid-blue-strip_14: 21300028
+      droid-blue-strip_15: 21300030
+      droid-blue-strip_16: 21300032
+      droid-blue-strip_17: 21300034
+      droid-blue-strip_18: 21300036
+      droid-blue-strip_19: 21300038
+      droid-blue-strip_2: 21300004
+      droid-blue-strip_20: 21300040
+      droid-blue-strip_21: 21300042
+      droid-blue-strip_22: 21300044
+      droid-blue-strip_23: 21300046
+      droid-blue-strip_24: 21300048
+      droid-blue-strip_25: 21300050
+      droid-blue-strip_26: 21300052
+      droid-blue-strip_27: 21300054
+      droid-blue-strip_28: 21300056
+      droid-blue-strip_29: 21300058
+      droid-blue-strip_3: 21300006
+      droid-blue-strip_30: 21300060
+      droid-blue-strip_31: 21300062
+      droid-blue-strip_32: 21300064
+      droid-blue-strip_33: 21300066
+      droid-blue-strip_34: 21300068
+      droid-blue-strip_35: 21300070
+      droid-blue-strip_36: 21300072
+      droid-blue-strip_37: 21300074
+      droid-blue-strip_38: 21300076
+      droid-blue-strip_39: 21300078
+      droid-blue-strip_4: 21300008
+      droid-blue-strip_40: 21300080
+      droid-blue-strip_41: 21300082
+      droid-blue-strip_42: 21300084
+      droid-blue-strip_43: 21300086
+      droid-blue-strip_44: 21300088
+      droid-blue-strip_45: 21300090
+      droid-blue-strip_46: 21300092
+      droid-blue-strip_47: 21300094
+      droid-blue-strip_48: 21300096
+      droid-blue-strip_49: 21300098
+      droid-blue-strip_5: 21300010
+      droid-blue-strip_50: 21300100
+      droid-blue-strip_51: 21300102
+      droid-blue-strip_52: 21300104
+      droid-blue-strip_53: 21300106
+      droid-blue-strip_54: 21300108
+      droid-blue-strip_55: 21300110
+      droid-blue-strip_56: 21300112
+      droid-blue-strip_57: 21300114
+      droid-blue-strip_6: 21300012
+      droid-blue-strip_7: 21300014
+      droid-blue-strip_8: 21300016
+      droid-blue-strip_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

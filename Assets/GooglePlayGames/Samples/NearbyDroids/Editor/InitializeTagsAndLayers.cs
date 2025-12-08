@@ -26,7 +26,7 @@ namespace NearbyDroids
     /// so this script is run in the editor to make sure the tags and layers
     /// are created.
     /// </summary>
-    [InitializeOnLoad]
+    //[InitializeOnLoad]
     public class InitializeTagsAndLayers
     {
         /// <summary>
@@ -84,11 +84,12 @@ namespace NearbyDroids
 
             CheckTags(tagManager);
 
-            #if UNITY_5
+#if UNITY_5
             CheckLayers(tagManager);
-            #else
-            Debug.LogError("WARNING!! You are using an older version of Unity, " +
-                "Please make sure the tags, layers, and sorting layers are set correcty!");
+#else
+            //Debug.LogError("WARNING!! You are using an older version of Unity, " +
+            //    "Please make sure the tags, layers, and sorting layers are set correcty!");
+            Debug.LogWarning("NearbyDroids tag/layer setup is not validated on this Unity version.");
             CheckLayersOld(tagManager);
             #endif
 

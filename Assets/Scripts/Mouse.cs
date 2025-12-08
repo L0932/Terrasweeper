@@ -3,18 +3,24 @@ using System.Collections;
 
 public class Mouse : MonoBehaviour {
 
-	public static Vector3 inputPos; 
+	public static Vector3 inputPos;
 
-	// Use this for initialization
-	void Start () {
-	
-	}
+    [SerializeField]
+    private Camera cam;
+
+    void Awake()
+    {
+		if (cam == null)
+		{
+			cam = Camera.main;   // Will be null if no MainCamera in scene
+		}
+    }
 	
 	// Update is called once per frame
 	void Update () {
 
 		#if UNITY_STANDALONE_WIN
-		Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+		Ray ray = cam.ScreenPointToRay(Input.mousePosition);
 		RaycastHit hit;
 
 		if(Physics.Raycast (ray, out hit, 1000))
@@ -45,6 +51,5 @@ public class Mouse : MonoBehaviour {
 
 		}*/
 		#endif 
-
 	}
 }
