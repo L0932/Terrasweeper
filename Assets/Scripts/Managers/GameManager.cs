@@ -225,8 +225,13 @@ public class GameManager : MonoBehaviour {
 			OnHighScoreChanged();
 	}
 
-	public void QuitGameSession(){
+	public void QuitGameSession()
+	{
+	#if UNITY_EDITOR
+		UnityEditor.EditorApplication.isPlaying = false;
+	#else
 		Application.Quit();
+	#endif
 	}
 
 	public void RestartGame(){
